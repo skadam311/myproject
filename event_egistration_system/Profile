@@ -1,0 +1,1 @@
+web:waiteress-serve --port=8000 event_egistration_system.wsgi:applications
