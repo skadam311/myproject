@@ -1,2 +1,3 @@
 # myproject
-event management system
+event management system software
+
